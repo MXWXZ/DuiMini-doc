@@ -2,5 +2,5 @@
     "language" : "zh-hans",
     "plugins": [
       "-lunr", "-search", "search-pro"
-    ],
+    ]
 }
