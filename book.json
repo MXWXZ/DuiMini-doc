@@ -8,7 +8,7 @@
         "github",
         "splitter",
         "expandable-chapters-small",
-        "donate"
+        "edit-link"
     ],
     "pluginsConfig": {
         "disqus": {
@@ -17,13 +17,9 @@
         "github": {
             "url": "https://github.com/MXWXZ/DuiMini"
         },
-        "donate": {
-            "wechat": "https://static.imwxz.com/assets/img/code_wechat.png",
-            "alipay": "https://static.imwxz.com/assets/img/code_alipay.png",
-            "title": "",
-            "button": "赏",
-            "alipayText": "支付宝",
-            "wechatText": "微信"
+        "edit-link": {
+            "base": "https://github.com/MXWXZ/DuiMini-wiki/",
+            "label": "编辑本页"
         }
     }
 }
