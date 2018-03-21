@@ -1,6 +1,20 @@
 {
-    "language" : "zh-hans",
+    "language": "zh-hans",
     "plugins": [
-      "-lunr", "-search", "search-pro"
-    ]
+        "-lunr",
+        "-search",
+        "search-pro",
+        "disqus",
+        "github",
+        "splitter",
+        "expandable-chapters-small"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "DuiMini-wiki"
+        },
+        "github": {
+            "url": "https://github.com/MXWXZ/DuiMini"
+        }
+    }
 }
