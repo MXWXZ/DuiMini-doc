@@ -1,6 +1,6 @@
 对话框  
 xml名：dlg  
-基类：[UIContainer](属性列表/UIContainer.md)
+基类：[UIContainer](UIContainer.md)
 
 |属性|合法值|默认值|说明|
 | :---: | :---: | :---: | :---: |

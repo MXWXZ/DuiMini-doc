@@ -1,6 +1,6 @@
 文本  
 xml名：txt  
-基类：[UIControl](属性列表/UIControl.md)
+基类：[UIControl](UIControl.md)
 
 |属性|合法值|默认值|说明|
 | :---: | :---: | :---: | :---: |

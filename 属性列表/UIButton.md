@@ -1,6 +1,6 @@
 按钮  
 xml名：btn  
-基类：[UIImage](属性列表/UIImage.md)
+基类：[UIImage](UIImage.md)
 
 *注：图片为按钮四态（Normal/Hover/Click/Disable)  
 下面是系统默认按钮名，请避免其他控件使用：
