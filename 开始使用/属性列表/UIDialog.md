@@ -1,3 +1,4 @@
+# UIDialog
 对话框  
 xml名：dlg  
 基类：[UIContainer](UIContainer.md)

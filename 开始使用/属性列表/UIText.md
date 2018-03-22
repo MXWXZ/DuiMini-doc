@@ -1,3 +1,4 @@
+# UIText
 文本  
 xml名：txt  
 基类：[UIControl](UIControl.md)

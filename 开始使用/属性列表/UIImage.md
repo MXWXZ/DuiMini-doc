@@ -1,3 +1,4 @@
+# UIImage
 图片  
 xml名：img  
 基类：[UIControl](UIControl.md)
