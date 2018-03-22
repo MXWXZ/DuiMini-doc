@@ -1,3 +1,4 @@
+# uires主配置文件
 - 调用`UIConfig::LoadConfig(LPCTSTR v_relativepath = DEFAULT_RESFILE);`来加载配置文件，默认为`uires.xml`文件。
 
 - 请保证`root`为唯一根节点。

@@ -1,3 +1,4 @@
+# 初始化或退出DuiMini环境
 请在主程序调用任何DuiMini库之前使用  
 `UISystem::Init(hInstance);`  
 来初始化环境，并在结束所有库调用后使用  
