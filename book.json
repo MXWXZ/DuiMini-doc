@@ -9,7 +9,6 @@
         "expandable-chapters-small",
         "edit-link",
         "copy-code-button",
-        "tbfed-pagefooter",
         "versions-select"
     ],
     "pluginsConfig": {
@@ -25,11 +24,6 @@
         "edit-link": {
             "base": "https://github.com/MXWXZ/DuiMini-wiki/blob/master/",
             "label": "编辑本页"
-        },
-        "tbfed-pagefooter": {
-            "copyright": "Copyright &copy MXWXZ 2018-2050",
-            "modify_label": "该文件修订时间：",
-            "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "versions": {
             "gitbookConfigURL": "https://raw.githubusercontent.com/MXWXZ/DuiMini-wiki/master/book.json",
