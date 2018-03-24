@@ -12,6 +12,8 @@
 |disable|1/0|0|是否禁用|
 |visible|1/0|1|是否可见|
 |alpha|0-255整数|255|透明度|
+|bordercolor|颜色|black|边框颜色|
+|bordersize|非负整数|0|边框宽度|
 
 注：一些控件名应避免使用[默认按钮](属性列表/UIButton.md)  
 *注：如果值为1将不会响应鼠标事件，视作dlg的事件处理，且重绘仅在窗口背景重绘时发生。
@@ -30,3 +32,7 @@
 |VisibleCtrl|显示控件|
 |SetAlpha|设置Alpha值|
 |GetAlpha|获取Alpha值|
+|SetBorderSize|设置边框宽度|
+|GetBorderSize|获取边框宽度|
+|SetBorderColor|设置边框颜色|
+|GetBorderColor|获取边框颜色|
