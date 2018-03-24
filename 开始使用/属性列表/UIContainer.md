@@ -10,4 +10,4 @@ xml名：container
 |函数名|说明|
 | :---: | :---: |
 |SetBGColor|设置背景颜色|
-|GetBGColor|获取背景颜色
+|GetBGColor|获取背景颜色|
