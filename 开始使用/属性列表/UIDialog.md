@@ -11,7 +11,6 @@ xml名：dlg
 |movable|1/0|1|允许移动窗口|
 |sizebox|4个非负整数|0,0,0,0|缩放边框宽度（左上右下）|
 |resizable|1/0|0|允许改变窗口大小|
-|alpha|0-255整数|255|窗口Alpha值|
 |minwidth|非负整数|0|最小宽度|
 |maxwidth|非负整数|窗口宽度（除任务栏）|最大宽度|
 |minheight|非负整数|0|最小高度|
@@ -32,8 +31,6 @@ xml名：dlg
 |GetSizeBox|获取缩放边框宽度|
 |SetCaptionRect|设置允许拖动窗口的矩形区域|
 |GetCaptionRect|获取允许拖动窗口的矩形区域|
-|SetAlpha|设置窗口Alpha值|
-|GetAlpha|获取窗口Alpha值|
 |SetMinWidth|设置最小宽度|
 |GetMinWidth|获取最小宽度|
 |SetMaxWidth|设置最大宽度|
