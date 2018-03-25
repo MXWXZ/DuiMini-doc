@@ -5,4 +5,4 @@ DuiMini和第三方库所使用的所有开源协议，您必须同意所有协�
 * [DirectUI License](Directui-License.md)
 * [Duilib-The BSD License](Duilib-The-BSD-License.md)
 * [ZLIB License](ZLIB-License.md)
-* [Rapidxml-The MIT License](Rapidxml-The-MIT-License.md)
+* [Pugixml-The MIT License](Pugixml-The-MIT-License.md)

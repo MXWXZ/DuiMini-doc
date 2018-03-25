@@ -14,6 +14,8 @@
 |alpha|0-255整数|255|透明度|
 |bordercolor|颜色|black|边框颜色|
 |bordersize|非负整数|0|边框宽度|
+|tooltip|语言字符串||鼠标悬浮tooltip|
+|tooltipwidth|正整数|300|tooltip最大宽度|
 
 注：一些控件名应避免使用[默认按钮](UIButton.md)  
 *注：如果值为1将不会响应鼠标事件，视作dlg的事件处理，且重绘仅在窗口背景重绘时发生。
@@ -36,3 +38,7 @@
 |GetBorderSize|获取边框宽度|
 |SetBorderColor|设置边框颜色|
 |GetBorderColor|获取边框颜色|
+|SetToolTip|设置tooltip|
+|GetToolTip|取得tooltip|
+|SetToolTipWidth|设置tooltip最大宽度|
+|GetToolTipWidth|取得tooltip最大宽度|

@@ -11,7 +11,7 @@
   * [DirectUI License](简介/Licenses/Directui-License.md)
   * [Duilib-The BSD License](简介/Licenses/Duilib-The-BSD-License.md)
   * [ZLIB License](简介/Licenses/ZLIB-License.md)
-  * [Rapidxml-The MIT License](简介/Licenses/Rapidxml-The-MIT-License.md)
+  * [Pugixml-The MIT License](简介/Licenses/Pugixml-The-MIT-License.md)
 
 ## 开始使用
 
