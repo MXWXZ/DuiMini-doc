@@ -4,7 +4,7 @@
 #### 抛弃繁杂的功能，只追求轻量与实用~
 [[View DuiMini on Github][5]]
 
-[[View DuiMini-Wiki][6]]（doc目录PDF版每个版本更新一次，网络版本与最新提交版本同步）
+[[View DuiMini-Wiki on Github][6]]（doc目录PDF版每个版本更新一次，网络版本与最新提交版本同步）
 <br><br>
 ##### 版本号：1.0
 ##### Contributers：MXWXZ
@@ -15,4 +15,4 @@
 [3]: https://img.shields.io/badge/Language-C%2B%2B-brightgreen.svg
 [4]: https://img.shields.io/badge/Version-1.0-blue.svg
 [5]: https://github.com/MXWXZ/DuiMini
-[6]: https://mxwxz.gitbooks.io/duimini-wiki/
+[6]: https://github.com/MXWXZ/DuiMini-wiki
