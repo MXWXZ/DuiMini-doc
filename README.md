@@ -8,8 +8,9 @@
 
 \[[View DuiMini on Github](https://github.com/MXWXZ/DuiMini)\]
 
-\[[View DuiMini-Wiki on Github](https://github.com/MXWXZ/DuiMini-wiki)\]
-<br><br>
+\[[View DuiMini-Wiki on Github](https://github.com/MXWXZ/DuiMini-wiki)\]   
+  
+
 
 版本号：1.0
 
