@@ -97,17 +97,6 @@ html_static_path = ['doc_static']
 #
 # html_sidebars = {}
 
-html_last_updated_fmt = '%Y-%m-%d %H:%M:%S'
-
-html_context = {
-    'display_github': True, # Integrate GitHub
-    'github_user': 'MXWXZ', # Username
-    'github_repo': 'DuiMini-doc', # Repo name
-    'github_version': 'master', # Version
-    'conf_py_path': '/source/', # Path in the checkout to the docs root
-}
-
-
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
