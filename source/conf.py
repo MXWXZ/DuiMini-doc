@@ -28,6 +28,8 @@ version = ''
 # The full version, including alpha/beta/rc tags
 release = '0.1.0'
 
+highlight_language = "c++"
+highlight_options={"linenothreshold":"2"}
 
 # -- General configuration ---------------------------------------------------
 
