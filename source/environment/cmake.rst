@@ -22,6 +22,6 @@ SFML选项相比原版将 ``SFML_BUILD_NETWORK`` 和 ``SFML_BUILD_AUDIO`` 默认
 
 关于SFML选项具体细节参见：https://www.sfml-dev.org/tutorials/2.5/compile-with-cmake.php
 
-高级-pugixml选项
------------------
-pugixml选项未做改变。
+高级-googletest选项
+--------------------
+将 ``INSTALL_GTEST`` 默认值调整为 ``FALSE``，``gtest_force_shared_crt`` 在VS中默认值调为 ``TRUE``
