@@ -25,7 +25,3 @@ SFML选项相比原版将 ``SFML_BUILD_NETWORK`` 和 ``SFML_BUILD_AUDIO`` 默认
 高级-pugixml选项
 -----------------
 pugixml选项未做改变。
-
-高级-zlib选项
--------------
-zlib选项未做改变，手动注释了 ``CMakeLists.txt`` 233-249行。
