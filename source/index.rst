@@ -14,7 +14,7 @@
    :hidden:
    :numbered:
 
-   deltail/config
+   detail/config
    detail/exception
    detail/resource
    detail/event
