@@ -12,6 +12,7 @@ CI环境：
 
 - Windows 10 with MSBuild 15.9.20, cmake 3.12.3
 - Ubuntu 16.04 with GCC 5.4.0, cmake 3.12.4
+- OSX 10.13 with Apple LLVM 9.1.0, cmake 3.11.4
 
 .. Warning:: OSX系统动态链接需要 `特殊设置 <https://www.sfml-dev.org/tutorials/2.5/start-osx.php>`_。
 
